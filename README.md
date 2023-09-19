@@ -20,5 +20,3 @@ The Transactions Monitoring API is a robust solution designed to facilitate and 
   
 - **Detailed Reporting**: Access detailed transaction reports, investment summaries, and more.
 
-## Getting Started
-
